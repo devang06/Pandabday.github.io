@@ -7,7 +7,7 @@ const config = {
 
     nickname: "PANDA", // nickname(optional)
 
-    pic: "", //image url of recipients (Mandatory)
+    pic: "./resources/img/flag-right.png", //image url of recipients (Mandatory)
 
     showScrollMsg: true, // set to false if you do not want the scrolling message
 };
