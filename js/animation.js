@@ -7,7 +7,7 @@ const config = {
 
     nickname: "PANDA", // nickname(optional)
 
-    pic: "./resources/img/flag-right.png", //image url of recipients (Mandatory)
+    pic: "./resources/img/hmm.png", //image url of recipients (Mandatory)
 
     showScrollMsg: true, // set to false if you do not want the scrolling message
 };
@@ -176,7 +176,7 @@ button.addEventListener("click",function(){
             return;
         }
 
-        document.querySelector(".HBD").textContent = "May your soul rest in peace";
+        document.querySelector(".HBD").textContent = "Happy birth my baby";
 
         frames[1].style.display = "flex";
 
